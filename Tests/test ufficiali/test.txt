@@ -1,0 +1,5 @@
+5
+AAAAA
+BBBBB
+CCCCC
++nuova_partita
