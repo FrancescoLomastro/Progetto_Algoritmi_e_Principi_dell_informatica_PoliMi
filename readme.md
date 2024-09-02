@@ -1,4 +1,4 @@
-## Progetto di algoritmi e strutture dati
+## Progetto di Algoritmi e Principi dell'informatica (algoritmi e strutture dati)
 Qeesta è la repository che comprende il progetto del corso di Algoritmi e Principi dell'informatica (algoritmi e strutture dati), anno 2021/22 del Politecnico di Milano.
 
 ## Struttura della repository
