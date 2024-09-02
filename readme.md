@@ -1,5 +1,5 @@
 ## Prova finale Progetto di Algoritmi e Strutture Dati - a.a - 2021-2022
-Qeesta è la repository che comprende il progetto del corso di Algoritmi e Principi dell'informatica (algoritmi e strutture dati), anno 2021/22 del Politecnico di Milano.
+Qeesta è la repository che comprende il progetto del corso di [Algoritmi e Principi dell'Informatica](https://www4.ceda.polimi.it/manifesti/manifesti/controller/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=EVENTO&c_insegn=086067&aa=2021&k_cf=225&k_corso_la=358&ac_ins=0&k_indir=IT1&lang=EN&tipoCorso=ALL_TIPO_CORSO&semestre=2&idItemOfferta=155412&idRiga=268925&codDescr=086067) (algoritmi e strutture dati), anno 2021/22 del Politecnico di Milano.
 
 ## Struttura della repository
 - Testo progetto: PDF in cui è presentata la traccia del progetto.
